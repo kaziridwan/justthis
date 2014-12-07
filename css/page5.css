@@ -1,0 +1,89 @@
+.donation-proceed-container {
+	padding-top: 200px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+
+.donation-proceed-container p.subheading {
+	color: #BEBCBC;
+	font-size: 1.5rem;
+	font-size: 15px;
+}
+
+.donation-proceed-container p.heading {
+	font-size: 2.8rem;
+	font-size: 28px;
+}
+
+.donation-proceed-container p.signin-info {
+	font-size: 1.5rem;
+	font-size: 15px;
+	font-weight: 400;
+	/*background-color: #9A9A9A;*/
+	width: 450px;
+	margin : 0 auto;
+	padding : 10px;
+	color: black;
+	border: 1px solid rgba(114, 113, 118, 0.34);
+	border-radius: 5px;
+}
+
+.donation-proceed-container .info-sections {
+	margin-top: 40px;
+	padding-bottom: 40px;
+}
+.donation-proceed-container .info-sections p.heading {
+	font-size: 1.5rem;
+	font-size: 15px;
+
+}
+
+.donation-proceed-container .info-sections .card {
+	width: 165px;
+	height: 105px;
+	border : 1px solid #C9C9C9;
+	border-radius: 4px;
+	margin : 0 auto;
+	margin-top: 30px;
+}
+
+.donation-proceed-container .info-sections .section-right .card {
+	width: 237px;
+	height: 104px;
+	padding-top: 10px;
+}
+
+
+.donation-proceed-container .info-sections .section-left .card {
+	width: 165px;
+	height: 105px;
+}
+
+.donation-proceed-container .info-sections .section-left .card  p {
+	font-size: 1.5rem;
+	font-size: 15px;
+	color: black;
+	font-weight: 400;
+	line-height: 105px;
+}
+
+
+
+.donation-proceed-container .info-sections .section-right .card p {
+	font-size: 14px;
+	font-weight: 400;
+	color: black;
+}
+
+.donation-proceed-container button {
+	padding-top: 10px;
+	border-bottom: none;
+	width: 169px;
+	font-size: 14px;
+	height: 58px;
+}
+
+
+
+

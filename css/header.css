@@ -1,0 +1,262 @@
+.top-social-lang-menu{
+  padding: 5px;
+  padding-right: 45px;
+
+}
+.top-social-lang-menu>ul>li{
+  display: inline;
+}
+.top-social-lang-menu>ul>li>a,.top-social-lang-menu>ul>li>span{
+  width: 40px;
+}
+.top-social-lang-menu>ul{
+  list-style: none;
+}
+/*navbar*/
+.navbar-default{
+	padding-top: 10px;
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+/*menu*/
+.menu-icon{
+	position: relative;
+	top: 21px;
+	left: 0px;
+	cursor: pointer;
+}
+.logo-header{
+	position: relative;
+	right: 90px;
+
+	width: 120%;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+/*right nav-bar*/
+.navbar-right{
+	margin-top: 20px;
+}
+
+/*header buttons*/
+.header-btn{
+	margin: 0 5px;
+}
+.search-btn{
+	font-size: 1.5em;
+	color: #9E9E9E;
+	height: 34px;
+	padding: 0 10px;
+	border: none; 
+	padding-bottom: 3px;
+	margin: 1px !important;
+}
+.search-btn:hover{
+	color: white;
+	background: #9E9E9E;
+}
+
+.btn-white,.btn-white:focus{
+	font-weight: 700;
+	color: #9E9E9E;
+	background: white;
+
+}
+.btn-white:hover{
+	color: white;
+	background: #9E9E9E;
+	border-radius: 5px;
+}
+.btn-lang{
+	margin-bottom: 20px;
+	padding: 5px;
+}
+
+.btn{	
+  border: none !important;
+  border-color: transparent !important;
+}
+/*social icons*/
+.social-icons{
+	height: 25px;
+	margin-right: 17px
+}
+/*links*/
+.intro-header a, .header-btn a{
+	color: #fff;
+	display: block;
+	padding-top: 30%;
+	line-height: 2;
+}
+
+.intro-header.padding-null{
+	padding-top: 0;
+}
+.content-section-a.padding-null{
+	padding-top: 10px;
+}
+
+/*table*/
+.table-borderless tbody tr td, .table-borderless thead tr th {
+    border: none;
+}
+.table-borderless strong {
+    color: #000;
+    font-weight: bold;
+}
+
+.table-no-outline tbody tr td, .table-no-outline thead tr th {
+    border: 2.5px solid #ddd;
+	text-align: center;
+}
+.table-no-outline tbody tr td:first-child, .table-no-outline thead tr th:first-child {
+    text-align: left;
+    border-left: none;
+}
+.table-no-outline tbody tr td:last-child, .table-no-outline thead tr th:last-child {
+	border-right: none;
+}
+.table-no-outline tbody tr:last-child td{
+	border-bottom: none;
+}
+/*/table*/
+
+
+/*menu-option*/
+#menu-options{
+	z-index: 999;
+	position: fixed;
+	top: 62px;
+	left: 110px;
+	background-color: #fff;
+}
+#menu-options td {
+	padding: 0 10px;
+	height: 20px;
+}
+#menu-options table {
+	padding: 0 ;
+	margin: 0;
+	border: 1px solid #d43f3a;
+}
+#menu-options h5 {
+	color: #d43f3a;
+}
+#menu-options tbody tr:first-child td{
+	border-top: none;
+}
+/*/menu-option*/
+
+
+/*language-form*/
+.curr-lang{
+	padding-top: 2px;
+}
+.curr-lang:hover{
+	cursor: pointer;
+	color: #d43f3a;
+}
+div.language-form{
+	height: 250px;
+}
+/*/language-form*/
+
+
+
+/*footer*/
+#subscribe-mail{
+	width: 250px;
+	position: absolute;
+	/*left:85px;*/
+	float: left;
+	/*top: 0px;/bottom: 0px;//how to get inherited position*/
+}
+#subscribe-mail button{
+	padding: 0;
+	margin: 1px 0;
+}
+#subscribe-mail input{
+	border-radius: 4px;
+	border: 1px solid #727176;
+}
+/*/footer*/
+
+
+
+/*global corrections*/
+:focus {
+outline: none;
+}
+/*/global corrections*/
+
+
+/*modal*/
+.modal-logo{
+	width: 20%;
+
+	position: absolute;
+
+	top: -45px;
+	left:38%;
+}
+.modal .sub-heading, .modal .fund-name{
+	text-align: left !important;
+}
+.modal .fund-name{
+	font-weight: 700;
+}
+
+
+
+/*sign up modal*/
+#signUp .modal-content,#signIn .modal-content{
+	background-color: #fafafa;
+	height: inherit;
+}
+.sign-up-banner{
+	width: 100%;
+}
+/*/sign up modal*/
+/*/modal*/
+
+
+
+/*menu bar*/
+.menu-bar-acc {
+position: relative;
+margin: 0;
+margin-top: 102px;
+padding-top: 20px;
+background-color: #E30613;
+color: white;
+height: 60px;
+}
+.menu-bar-acc ul{
+	list-style: none;
+}
+.menu-bar-acc ul li {
+	display: inline;
+	margin-right: 20px;
+}
+.menu-bar-acc ul li a {
+	color: white;
+}
+
+.ghosted{
+	border: 1px solid white;
+	padding: 3px;
+/*	position: relative;
+	left: 106px;*/
+
+}
+/*/menu bar*/
+
+
+/*navbar w/ menubar*/
+@media (min-width: 1200px){
+	.navbar .container {
+		width: 1327px;
+	}	
+}
+/*/navbar w/ menubar*/

@@ -1,0 +1,20 @@
+
+/*news-tile*/
+.news-tile .col-lg-6 {
+	margin-bottom: 30px;
+}
+.news-tile img{
+	display: block;
+	margin-right: 15px;
+}
+
+.share-social, .-fix{
+	position: relative;
+	bottom: 495px;
+	right: 820px;
+}
+.section-lead>h3{
+	padding-top: 20px;
+	font-size: 3.5rem;
+}
+/*/news-tile*/

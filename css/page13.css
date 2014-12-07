@@ -1,0 +1,75 @@
+.paypal-login-container {
+	padding-top: 100px;
+}
+
+.paypal-login-container img.banner-paypal {
+	width: 100%;
+}
+
+.paypal-form-container {
+	border-radius: 5px;
+	border : 1px solid #F6F5F5;
+	width: 80%;
+	float: left;
+	margin : 40px;
+}
+
+.paypal-form-container p {
+	font-size: 18px;
+}
+
+.paypal-form-container p i  {
+	padding-left: 5px;
+	paddi2ng-right: 5px;
+	margin-top: 23px;
+	font-weight: 100;
+}
+
+.paypal-form-container .form-header {
+	border-bottom: 1px solid #DADAD9;
+	margin-left: 20px;
+}
+
+.paypal-form-container .paypal-form {
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+.paypal-form-container .paypal-form label {
+	font-weight: 300;
+	font-size: 2.4rem;
+	font-size: 24px;
+
+}
+.paypal-form-container .paypal-form input {
+	font-weight: 200;
+}
+.paypal-form-container .paypal-form input, .paypal-form-container .paypal-form button{
+	width: 100%;
+}
+
+.paypal-form-container .paypal-form .or-devider p, .paypal-form-container .paypal-form .or-devider hr {
+	float: left;
+}
+.btn-inverse {
+	background-color : #E1E5E9;
+	color: black;
+}
+
+
+.paypal-form-container .form-badge {
+	padding-top: 90px;
+}
+
+.paypal-form-container .form-badge h3 {
+	font-weight: 300;
+	font-size: 4.0rem;
+	font-size: 40px;
+}
+
+.paypal-form-container .form-badge p {
+	font-size: 2.0rem;
+	font-size: 20px;
+	font-weight: 100;
+	color: black;
+}
+

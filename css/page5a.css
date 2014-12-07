@@ -1,0 +1,13 @@
+.legal{
+	padding :30px;
+	position: relative;	
+	right: 95px;
+	top: 20px;
+
+	font-size: 1.8rem;
+}
+.legal p{
+	font-size: 1.8rem;
+	font-weight: 400;
+}
+

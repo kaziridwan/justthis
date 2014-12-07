@@ -1,0 +1,160 @@
+.main-container {
+	padding: 50px;
+}
+
+
+h2.country-name {
+	font-size: 36px;
+	font-weight: 700;
+	color: #727176;
+
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+
+.progress{
+	height: 38px;
+	border: 1px solid #e01d1a;
+}
+.progress-bar{
+	background-color: #e01d1a;
+	font-size: 1.4px;
+	font-size: 14px;
+	padding: 10px;
+}
+.progress-info{
+	text-align: center;
+}
+
+.section-lead {
+	padding-top: 50px;
+}
+
+.section-lead h3.title {
+	font-weight: 200;
+	color: #4879B2;
+}
+
+.section-lead img {
+	width: 100%;	
+}
+
+.country-lead-thumbs {
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-bottom: 2px solid #727176;
+}
+
+.country-lead-thumbs .thumb1 p {
+	font-weight: 200;
+	font-size: 2.0rem;
+	font-size: 20px;
+}
+
+
+.country-lead-thumbs .thumb2 h2 {
+	font-size: 20px;
+	margin : 0px;
+	padding-bottom: 10px;
+	font-weight: 400;
+}
+
+
+
+.country-lead-thumbs .thumb2 button {
+	padding: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	border : none;
+	font-weight: 200;
+	width: 100%;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+
+/**map */
+.country-lead-thumbs .thumb3 {
+	height: 300px;
+}
+
+
+.country-secondary-section {
+	margin-left: 0px;
+}
+
+.country-secondary-section .thumb {
+	padding-left: 0px;
+	padding-top: 30px;
+	margin-left: 0px;
+}
+
+.country-secondary-section .thumb h3 ,.country-secondary-section a{ 
+	color: #DC1E39;
+	font-weight: 200;
+	font-size: 30px;
+}
+
+.country-secondary-section .thumb p {
+	font-weight: 500;
+}
+
+.country-secondary-section .thumb ul {
+	padding : 0;
+	margin : 0;
+	margin-left: 15px;
+	margin-left: 1.5rem;
+	font-weight: 500;
+	margin-top: 20px;
+}
+
+.country-secondary-section .thumb .foot {
+	padding: 15px;
+}
+
+.country-secondary-section .thumb .foot p {
+	font-size: 13px;
+	margin-top: 15px;
+	font-weight: 500;
+}
+.country-secondary-section a:hover{
+
+}
+
+.foot.row{
+
+}
+
+.gen-fund-btn h3{
+	margin: 0;
+	padding: 0;
+	
+	width: 100%;
+	font-weight: 700;
+	font-size: 24px; 
+	
+	color: #fff;
+}
+.gen-fund-btn{
+	position: relative;
+	top: 60px;
+}
+.share-social{
+	bottom: 22px;
+	right: 485px;
+}
+.row{
+	margin-left: 0px;
+}
+
+
+/*country info section*/
+.country-lead-thumbs .col-lg-4:first-child{
+	padding-left: 0;
+}
+.country-lead-thumbs .col-lg-4:last-child{
+	padding-right: 0;
+}
+/*/country info section*/

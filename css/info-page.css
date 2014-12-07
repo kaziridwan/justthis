@@ -1,0 +1,31 @@
+.content-section{
+	color: #727176;
+}
+.content-section .content-head{
+	font-size: 2.5rem;
+	font-size: 25px;
+	margin-bottom: 25px;
+}
+.content-section .content-body{
+	font-size: 1.4rem;
+	font-size: 14px;
+}
+.content-section.section-top{
+	padding-top: 120px;
+}
+.content-section.section-1-col{
+	width: 80%;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 100px;
+}
+.content-section button{
+	padding-top: 10px;
+	border-bottom: none;
+	width: 169px;
+	font-size: 14px;
+	height: 58px;
+}
+.container{
+	/*padding-bottom: 100px;*/
+}

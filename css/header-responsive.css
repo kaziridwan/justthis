@@ -1,0 +1,113 @@
+/*view port*/
+@media (max-width: 1255px){
+	.content-section-a .items {
+		width: 45% ;
+	}
+
+}
+
+@media (min-width: 992px){
+	.logo-header{
+		width: 70%;
+	}
+	
+}
+@media (max-width: 991px){
+	.logo-header{
+		width: 120%;
+		position: absolute;
+		left: -30px
+	}	
+	.navbar-default{
+		height: 92px;
+	}
+}
+@media (max-width: 767px) {
+	.logo-header{
+		width: 180px;
+		height: 58px;
+		
+		position: absolute;
+		left: -20px
+
+	}
+	.intro-header .container .row .country {
+		height: 100px;
+	}
+
+
+	/*map marker section*/
+	.content-section-a .items {
+		width: 85%;
+		margin: 0 auto;
+		height: 72px;
+	}
+	.content-section-a .items .item {
+		display: block;
+		float: left;
+		width: 49%;
+	}
+
+	/*/map marker section*/	
+}
+@media (max-width: 500px) {
+	.logo-header{
+		width: 180px;
+		height: 58px;
+		
+		position: absolute;
+		left: -10px
+
+	}
+	/*map marker section*/
+	
+	.content-section-a .items .item p {
+		font-size: 1.2rem;
+	}
+	.content-section-a .items {
+		width: 100%;
+	}
+
+	/*/map marker section*/
+
+}
+@media (max-width: 400px) {
+	.logo-header{
+		width: 51px;
+		height: 51px;
+		padding-top: 0 !important;
+		padding-left: 0 !important;
+		left:25px;
+		left: 40px;
+		top: 10px;
+	}
+	.intro-header a{
+		font-size: .8rem;
+		padding-top: 20%;
+	}
+	.intro-header .container .row .country {
+		height: 50px;
+	}
+
+}
+/*/view port*/
+
+
+/*viewport helpers*/
+@media (max-width: 400px){
+	.visible-xxs{
+		display: block !important;
+	}
+	.hidden-xxs{
+		display: none !important;
+	}
+}
+@media (min-width: 401px){
+	.visible-xxs{
+		display: none !important;
+	}
+	.hidden-xxs{
+		display: block !important;
+	}
+}
+/*/viewport helpers*/

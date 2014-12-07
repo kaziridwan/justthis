@@ -1,0 +1,8 @@
+footer .row{
+	position: relative;
+	left: 48px;
+}
+footer .row.leading{
+	position: relative;
+	left: 0px;
+}

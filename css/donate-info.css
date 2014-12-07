@@ -1,0 +1,150 @@
+.donate-op{
+	width: 100px;
+	margin: 0;
+	padding: 0;
+	/*margin-right: 16.5%;*/
+	margin-right: 20.5%;
+	margin-bottom: 5%;
+}
+.donate-op:last-child{
+	margin-right: inherit;
+}
+
+.donate-icon{
+	height: 90px;
+	margin-bottom: 10px;
+}
+.donate-icon img{
+	/*height: 53px;*/
+	height: 100px;
+	display: block;
+
+	margin: auto;
+}
+/*.donate-op-title {	
+	width: 120px;
+	text-align: center;
+	font-size: 1.5rem;
+	font-size: 15px;
+
+	position: relative;
+	right: 33px;
+}*/
+
+.paypal-gw-img{
+	display: block;
+	right: 0;
+}
+
+
+.social-tile{
+}
+.social-tile td{
+	height: 85px;
+	width: 230px;
+}
+.social-tile td img{
+	height: 60px;
+	width: 60px;
+	margin-right: 10px;
+}
+.social-tile td a{	
+	font-size: 1.5rem;
+	font-size: 15px;
+	color: #727176;
+}
+
+
+/*section a fix*/
+.content-section-a{
+	padding-bottom: 50px;
+}
+/*/section a fix*/
+
+
+/*image icons*/
+img.partner-img {
+margin-left: 0;
+}
+/*/image icons*/
+
+
+
+/*header-banner*/
+.intro-img{
+	display: block;
+	width: 118%;
+	height: 400px;
+	position: relative;
+	top: -85px;
+	left: -103px;
+}
+.static-modal{
+	position: absolute;
+	top: -85px;
+}
+.static-modal .modal-content{
+	-webkit-box-shadow: none;
+ 	box-shadow: none;
+ 	border: none;
+}
+
+.fund-name{
+	text-align: left !important;
+}
+.btn-give{
+	height: 45px;
+}
+.visa-icon{
+	position:absolute;
+	top: 185px;
+	left: 300px;
+}
+.sp-donate-btn{
+	display: block;
+}
+.give_by_check{
+	position: relative;
+	top: 60px;
+
+	height: 80px;
+}
+.give_by_check .title{
+	position: relative;
+	bottom: 55px;
+	height: 0px;
+}
+.btn-head {
+	position: relative;
+	left: 242%;
+	bottom: -70px;
+}
+.donate-op-title {
+	width: 120px;
+	text-align: center;
+	font-size: 1.5rem;
+	font-size: 15px;
+	position: relative;
+	right: 10px;
+	top: 7px;
+}
+.header-btns{
+	padding-top: 450px;
+	position: relative;
+	left: 20%;
+	bottom: 282px;
+	width: 60%;
+}
+.head-block{
+	margin-top: 0;
+	height: 500px;
+}
+/*/header-banner*/	
+
+.donate-sign-up-btn {
+width: 100px;
+background-color: #DF1C1A;
+position: relative;
+bottom: 3px;
+height: 58px;
+}

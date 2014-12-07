@@ -1,0 +1,24 @@
+
+/*search-box*/
+.search-box {
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	width: 650px;
+
+	padding-left: 20px;
+	font-size: 15px;
+}
+.search-btn-fix {
+	height: 40px !important;
+	width: inherit !important;
+}
+.search-btn-fix .fa-search{
+	position: relative;
+	bottom: 2px;
+}
+.num-fix{
+	height: 40px !important;
+	width: 40px !important;
+}
+/*/search-box*/

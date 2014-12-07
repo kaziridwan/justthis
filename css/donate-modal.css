@@ -1,0 +1,55 @@
+.paypal-donate-container {
+	padding-top: 100px;
+}
+.paypal-donate-container img.banner-donate {
+	width: 100%;
+}
+
+.modal-content {
+	padding : 20px;
+	border-radius : 0px;
+	width: 360px;
+	/*height: 500px;*/
+	margin : 0 auto;
+	margin-top: 130px;
+	background-color: #CBD9EF;
+}
+
+.donate-form p.sub-heading {
+	text-align: center;
+	font-size: 14px;	
+}
+
+
+.donate-form p.fund-name {
+	font-size: 25px;
+	text-align: center;
+	color: #D2022D;
+}
+
+
+.donate-form input {
+	text-align: center;
+}
+
+.donate-form p.give_by_check {
+	padding : 10px;
+	text-align: center;
+}
+
+
+.input-group-addon {
+	background-color: white;
+}
+
+.input-group-addon.left-addon {
+	border-right: none;
+}
+
+input,textarea {
+	font-weight: 200;
+	text-align: left;
+}
+.donate-form p.info {
+	text-align: center;
+}
